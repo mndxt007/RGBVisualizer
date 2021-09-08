@@ -24,7 +24,7 @@ I have written this application to understand QML and Pyside2 (Signals and Slots
         qmlscene RGBStandlone.qml -platform webgl:8080
 
 
-    ![Demo_09_09_2021](assets/DemoWb_09_09_2021.gif)
+    ![Demo_09_09_2021](assets/DemoWB_09_09_2021.gif)
 
 
     
